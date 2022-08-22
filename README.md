@@ -1,8 +1,8 @@
 # Pre-work - Tip Calculator
 
-Submitted by: Mina Sedhom
+Submitted by: *Mina Sedhom*
 
-Time spent: 2 hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/1qZg4avavz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/1qZg4avavz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
